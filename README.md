@@ -1,1 +1,2 @@
 # .dOT
+Projects for beginner..
