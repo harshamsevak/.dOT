@@ -536,7 +536,7 @@ void welcome()
        cout<<"\n\n\n\t UNIVERSITY   MANAGEMENT PROJECT " ;
        cout<<"\n\n\t\t\t\t       BY  :-";
        cout<<"\n\n\t\t\t*  HARSHAM"<<"\t CBA ";
-       cout<<"\n\n\t\t\t*  HETA "<<"\t  CBA ";
+       cout<<"\n\n\t\t\t*  DHWANIL "<<"\t  CBA ";
 
 	 cout<<" \n\n\n\t\t     press any number and 'ENTER' to continue: ";
 	 cin>>z;
